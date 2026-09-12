@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     "патенты России",
     "Роспатент",
   ],
-  authors: [{ name: "ПатентБиржа" }],
+  authors: [{ name: "Ipat.su" }],
   openGraph: {
     title: "Купить/продать патент на изобретение или полезную модель в России",
     description:

@@ -17,7 +17,7 @@ export function SiteFooter() {
               </div>
               <div className="flex flex-col leading-none">
                 <span className="text-base font-bold tracking-tight">
-                  Патент<span className="text-primary">Биржа</span>
+                  Ipat<span className="text-primary">.su</span>
                 </span>
                 <span className="text-[10px] uppercase tracking-wider text-muted-foreground">
                   Покупка · Продажа · Лицензии
@@ -122,11 +122,11 @@ export function SiteFooter() {
               </li>
               <li>
                 <a
-                  href="mailto:info@patent-birga.ru"
+                  href="mailto:info@ipat.su"
                   className="flex items-center gap-2 transition-colors hover:text-primary"
                 >
                   <Mail className="h-4 w-4 text-primary" />
-                  info@patent-birga.ru
+                  info@ipat.su
                 </a>
               </li>
               <li className="flex items-start gap-2">
@@ -143,7 +143,7 @@ export function SiteFooter() {
 
         <div className="mt-10 flex flex-col items-start justify-between gap-4 border-t border-border/40 pt-6 text-xs text-muted-foreground md:flex-row md:items-center">
           <div>
-            © {year} ПатентБиржа. Все права защищены.
+            © {year} Ipat.su. Все права защищены.
           </div>
           <div className="flex flex-wrap gap-x-4 gap-y-2">
             <a href="#" className="transition-colors hover:text-primary">

@@ -50,7 +50,7 @@ export function SiteHeader() {
           </div>
           <div className="flex flex-col leading-none">
             <span className="text-base font-bold tracking-tight">
-              Патент<span className="text-primary">Биржа</span>
+              Ipat<span className="text-primary">.su</span>
             </span>
             <span className="text-[10px] uppercase tracking-wider text-muted-foreground">
               Покупка · Продажа · Лицензии

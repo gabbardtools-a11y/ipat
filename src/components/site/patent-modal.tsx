@@ -220,7 +220,7 @@ export function PatentModal({ patent, onClose }: PatentModalProps) {
 
           <div className="flex items-center justify-center gap-1 text-xs text-muted-foreground">
             <Mail className="h-3.5 w-3.5" />
-            info@patent-birga.ru
+            info@ipat.su
           </div>
         </div>
       </DialogContent>
