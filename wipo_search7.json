@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://docs.sepasoft.com",
+    "name": "SOAP Endpoints",
+    "snippet": "Jul 31, 2026 — Access the WSDL document by pasting the WSDL URL into a web browser . An example for the WSDL document is shown in the screenshot.",
+    "host_name": "docs.sepasoft.com",
+    "rank": 0,
+    "date": "Jul 31, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://learn.microsoft.com",
+    "name": "Accessing the SOAP API",
+    "snippet": "Mar 19, 2023 — The WSDL for the Excel Web Services endpoint is accessed through ExcelServices.asmx? wsdl . WSDL can be consumed by development kits that ...",
+    "host_name": "learn.microsoft.com",
+    "rank": 1,
+    "date": "Mar 19, 2023",
+    "favicon": ""
+  },
+  {
+    "url": "https://salesforce.stackexchange.com",
+    "name": "Retrieving enterprise WSDL via SOAP API endpoint?",
+    "snippet": "Apr 5, 2019 — Is there an endpoint to retrieve the enterprise WSDL file via salesforce (SOAP) API?  All I found is the option to retrieve it via standard curl request ...",
+    "host_name": "salesforce.stackexchange.com",
+    "rank": 2,
+    "date": "Apr 5, 2019",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.ibm.com",
+    "name": "Retrieving addresses from SOAP 1.1 and SOAP 1.2",
+    "snippet": "A SOAP 1.1 endpoint address can be found on a SOAPAddress object that is contained by the port object, which is itself contained by the WSDLService object.",
+    "host_name": "www.ibm.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.wipo.int",
+    "name": "PCT PATENTSCOPE Web-services",
+    "snippet": "What is PATENTSCOPE. Web-services? PATENTSCOPE Web-services is a service that allows machine to machine communications and is NOT a web-site. 1 page",
+    "host_name": "www.wipo.int",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://knowledgebase.jedox.com",
+    "name": "SOAP (WSDL) Connection",
+    "snippet": "The SOAP endpoint address where the SOAP message is posted. Normally, it is consistent with the endpoint of the WSDL ; in this case this option is not necessary.",
+    "host_name": "knowledgebase.jedox.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://forum.alumio.com",
+    "name": "Connecting to a SOAP API",
+    "snippet": "Oct 10, 2022 — Most SOAP services expose their WSDL through a (publicly) accessible HTTP endpoint . When selecting the HTTP option you are able to consume ...",
+    "host_name": "forum.alumio.com",
+    "rank": 6,
+    "date": "Oct 10, 2022",
+    "favicon": ""
+  },
+  {
+    "url": "https://academy.creatio.com",
+    "name": "Set up the SOAP web service integration",
+    "snippet": "Go to the [ Studio ] workplace and open the [ Web services ] section. · Click [ New web service ] → [ SOAP service ]. · Click [ Select WSDL file ] or specify the ...",
+    "host_name": "academy.creatio.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  }
+]

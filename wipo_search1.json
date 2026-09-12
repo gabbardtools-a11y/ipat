@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://www.wipo.int",
+    "name": "PCT Data Products and Services",
+    "snippet": "Programmatic access via a set of Java API , based on SOAP protocol, to all publication documents available in the document tab of the PATENTSCOPE search engine. Read more",
+    "host_name": "www.wipo.int",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://patentscope.wipo.int",
+    "name": "WIPO - Search International and National Patent Collections",
+    "snippet": "This patent search tool allows you not only to search the PCT database of about 2 million International Applications but also the worldwide patent ...",
+    "host_name": "patentscope.wipo.int",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://wipo-analytics.github.io",
+    "name": "Chapter 8 Patentscope | The WIPO Manual on Open",
+    "snippet": "Patentscope is the WIPO public access database . It includes coverage of the Patent Cooperation Treaty applications (administered by WIPO) and a wide range ... Read more",
+    "host_name": "wipo-analytics.github.io",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com",
+    "name": "cantab/patentscope: Gem to allow easy access",
+    "snippet": "The Patentscope gem allows easy access, with Ruby , to data provided by the PATENTSCOPE Web Service of the World Intellectual Property Organisation (WIPO). Read more",
+    "host_name": "github.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  }
+]

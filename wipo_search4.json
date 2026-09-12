@@ -1,0 +1,29 @@
+[
+  {
+    "url": "https://www.wipo.int",
+    "name": "List of WIPO Standards, Recommendations and Guidelines",
+    "snippet": "API Catalog for Intellectual Property ST.91 Recommendations on digital three-dimensional (3D) models and 3D images October 2024",
+    "host_name": "www.wipo.int",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com",
+    "name": "wipo-global-databases.md",
+    "snippet": "May 16, 2026 — The WIPO API Catalog confirms there is no PATENTSCOPE search API published — a probe of https://apicatalog. wipo .int/ api / apis /all on 2026-05-16 ... Read more",
+    "host_name": "github.com",
+    "rank": 1,
+    "date": "May 16, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://wipo-analytics.github.io",
+    "name": "Chapter 7 Databases | The WIPO Manual on Open Source",
+    "snippet": "The WIPO Patentscope database provides access to over 2.4 million Patent Cooperation Treaty applications and over 99 million patent documents. including ... Read more",
+    "host_name": "wipo-analytics.github.io",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  }
+]

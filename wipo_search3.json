@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://github.com",
+    "name": "cantab/patentscope: Gem to allow easy access",
+    "snippet": "As provided by WIPO, the PATENTSCOPE Web Service is available through a SOAP interface . The documentation provided by WIPO uses Java.",
+    "host_name": "github.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.wipo.int",
+    "name": "Standards – ST.90 page",
+    "snippet": "This Standard provides model Service Contracts for SOAP Web APIs using WSDL and, for RESTful Web APIs using the REST API Modeling Language (RAML) 91 pages",
+    "host_name": "www.wipo.int",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://experienceleague.adobe.com",
+    "name": "IPS Web Service WSDL versions",
+    "snippet": "Jun 28, 2026 — Each IPS API release includes a new WSDL file that references a versioned target XML namespace. Prior WSDL namespace versions are also supported ...",
+    "host_name": "experienceleague.adobe.com",
+    "rank": 2,
+    "date": "Jun 28, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://learn.microsoft.com",
+    "name": "Accessing the SOAP API",
+    "snippet": "Mar 19, 2023 — The SOAP API consists of methods and a set of complex type objects that you can use to access the complete functionality of Excel Web ...",
+    "host_name": "learn.microsoft.com",
+    "rank": 3,
+    "date": "Mar 19, 2023",
+    "favicon": ""
+  }
+]

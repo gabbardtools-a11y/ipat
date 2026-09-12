@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://www.wipo.int/edocs/mdocs/pct/en/wipo_pct_mow_12/wipo_pct_mow_12_ref_pctpatentscope.pdf",
+    "name": "[PDF] PCT PATENTSCOPE Web-services - WIPO",
+    "snippet": "PATENTSCOPE Web-services is a service that allows machine to machine communications and is NOT a web-site Gives access to Published PCT International",
+    "host_name": "www.wipo.int",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.wipo.int/en/web/standards/ip-api-catalog/user-guide",
+    "name": "API Catalog User Guide - WIPO",
+    "snippet": "This API Catalog facilitates users of Intellectual Property (IP) data and information to access IP Institutions' APIs for patents, trademarks, industrial ...",
+    "host_name": "www.wipo.int",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  }
+]

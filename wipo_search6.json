@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://wipo-analytics.github.io",
+    "name": "Chapter 7 Databases | The WIPO Manual on Open Source",
+    "snippet": "As of 2021 it is possible to download 50,000 records. The WIPO Patentscope database provides access to over 2.4 million Patent Cooperation Treaty applications ...",
+    "host_name": "wipo-analytics.github.io",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.wipo.int",
+    "name": "Intellectual Property Statistics",
+    "snippet": "IP Statistics Data Center is a free online service, download both the latest and historical data according to your needs.",
+    "host_name": "www.wipo.int",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://data.commerce.gov",
+    "name": "Open Data Portal (ODP) Bulk Datasets API (Search, Product",
+    "snippet": "Product Data - Contains published, publicly available patent and trademark data in bulk form . Use this endpoint when you want data from a specific Bulk Dataset.",
+    "host_name": "data.commerce.gov",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.epo.org",
+    "name": "Bulk data sets",
+    "snippet": "Open Bulk Data Download Service. Here's an overview of the bulk data sets we offer: EP bibliographic data (EBD ) · European Patent Register data · EP full-text ...",
+    "host_name": "www.epo.org",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  }
+]
