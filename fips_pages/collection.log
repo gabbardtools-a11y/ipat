@@ -1,8 +1,181 @@
-Current URL: https://www1.fips.ru/iiss/db.xhtml
-=== Step 1: Open FIPS ===
-  CMD FAILED: open https://www1.fips.ru/iiss/search.xhtml
-    stderr: ✗ CDP command timed out: Page.navigate
+URL: https://www1.fips.ru/iiss/search_res.xhtml?faces-redirect=true
 
-  CMD TIMEOUT: get url
-  URL: 
-=== Step 2: Expand RU patents group ===
+=== Page 1/80 ===
+  +50 new (total: 50, last pos: 50)
+  Years: 2008:39, 2026:11
+  First: 1. RU2869222 (01.09.2026)
+  Last:  50. RU2317682 (27.02.2008)
+
+=== Page 2/80 ===
+  +50 new (total: 100, last pos: 100)
+  Years: 2008:50
+  First: 51. RU2317683 (27.02.2008)
+  Last:  100. RU2331702 (20.08.2008)
+
+=== Page 3/80 ===
+  +50 new (total: 150, last pos: 150)
+  Years: 2007:1, 2008:48, 2009:1
+  First: 101. RU2331704 (20.08.2008)
+  Last:  150. RU2320142 (27.03.2008)
+
+=== Page 4/80 ===
+  +50 new (total: 200, last pos: 200)
+  Years: 2008:50
+  First: 151. RU2320143 (27.03.2008)
+  Last:  200. RU2338726 (20.11.2008)
+
+=== Page 5/80 ===
+  +50 new (total: 250, last pos: 250)
+  Years: 2007:1, 2008:48, 2009:1
+  First: 201. RU2356748 (27.05.2009)
+  Last:  250. RU2320605 (27.03.2008)
+
+=== Page 6/80 ===
+  +50 new (total: 300, last pos: 300)
+  Years: 2008:50
+  First: 251. RU2320833 (27.03.2008)
+  Last:  300. RU2326975 (20.06.2008)
+
+=== Page 7/80 ===
+  +50 new (total: 350, last pos: 350)
+  Years: 2008:49, 2017:1
+  First: 301. RU2327664 (27.06.2008)
+  Last:  350. RU2316172 (10.02.2008)
+
+=== Page 8/80 ===
+  +50 new (total: 400, last pos: 400)
+  Years: 2007:1, 2008:49
+  First: 351. RU2316173 (10.02.2008)
+  Last:  400. RU2320189 (27.03.2008)
+
+=== Page 9/80 ===
+  +50 new (total: 450, last pos: 450)
+  Years: 2008:49, 2009:1
+  First: 401. RU2320229 (27.03.2008)
+  Last:  450. RU2321304 (10.04.2008)
+
+=== Page 10/80 ===
+  +50 new (total: 500, last pos: 500)
+  Years: 2007:12, 2008:36, 2026:2
+  First: 451. RU2324394 (20.05.2008)
+  Last:  500. RU2314461 (10.01.2008)
+
+=== Page 11/80 ===
+  +50 new (total: 550, last pos: 550)
+  Years: 2007:3, 2008:46, 2009:1
+  First: 501. RU2375777 (10.12.2009)
+  Last:  550. RU2323624 (10.05.2008)
+
+=== Page 12/80 ===
+  +50 new (total: 600, last pos: 600)
+  Years: 2007:1, 2008:48, 2018:1
+  First: 551. RU2323653 (10.05.2008)
+  Last:  600. RU2322893 (27.04.2008)
+
+=== Page 13/80 ===
+  +50 new (total: 650, last pos: 650)
+  Years: 2007:1, 2008:40, 2009:1, 2018:1, 2026:7
+  First: 601. RU2322894 (27.04.2008)
+  Last:  650. RU2318325 (10.03.2008)
+
+=== Page 14/80 ===
+  +50 new (total: 700, last pos: 700)
+  Years: 2007:2, 2008:47, 2009:1
+  First: 651. RU2318327 (10.03.2008)
+  Last:  700. RU2318323 (10.03.2008)
+
+=== Page 15/80 ===
+  +50 new (total: 750, last pos: 750)
+  Years: 2008:50
+  First: 701. RU2318324 (10.03.2008)
+  Last:  750. RU2334935 (27.09.2008)
+
+=== Page 16/80 ===
+  +50 new (total: 800, last pos: 800)
+  Years: 2007:1, 2008:49
+  First: 751. RU2334996 (27.09.2008)
+  Last:  800. RU2313753 (27.12.2007)
+
+=== Page 17/80 ===
+  +50 new (total: 850, last pos: 850)
+  Years: 2007:2, 2008:43, 2009:1, 2026:4
+  First: 801. RU2316060 (27.01.2008)
+  Last:  850. RU2318015 (27.02.2008)
+
+=== Page 18/80 ===
+  +50 new (total: 900, last pos: 900)
+  Years: 2007:4, 2008:46
+  First: 851. RU2319399 (20.03.2008)
+  Last:  900. RU2322919 (27.04.2008)
+
+=== Page 19/80 ===
+  +50 new (total: 950, last pos: 950)
+  Years: 2007:2, 2008:43, 2026:5
+  First: 901. RU2322921 (27.04.2008)
+  Last:  950. RU2312231 (10.12.2007)
+
+=== Page 20/80 ===
+  +50 new (total: 1000, last pos: 1000)
+  Years: 2007:8, 2008:36, 2019:1, 2021:1, 2022:3, 2023:1
+  First: 951. RU2313504 (27.12.2007)
+  Last:  1000. RU2320745 (27.03.2008)
+
+=== Page 21/80 ===
+  +50 new (total: 1050, last pos: 1050)
+  Years: 2008:40, 2009:1, 2010:1, 2026:8
+  First: 1001. RU2322301 (20.04.2008)
+  Last:  1050. RU2322030 (20.04.2008)
+
+=== Page 22/80 ===
+  +50 new (total: 1100, last pos: 1100)
+  Years: 2007:1, 2008:47, 2009:1, 2010:1
+  First: 1051. RU2317682 (27.02.2008)
+  Last:  1100. RU2316187 (10.02.2008)
+
+=== Page 23/80 ===
+  +50 new (total: 1150, last pos: 1150)
+  Years: 2008:50
+  First: 1101. RU2316188 (10.02.2008)
+  Last:  1150. RU2322413 (20.04.2008)
+
+=== Page 24/80 ===
+  +50 new (total: 1200, last pos: 1200)
+  Years: 2008:48, 2009:1, 2010:1
+  First: 1151. RU2322414 (20.04.2008)
+  Last:  1200. RU2321244 (10.04.2008)
+
+=== Page 25/80 ===
+  +50 new (total: 1250, last pos: 1250)
+  Years: 2007:1, 2008:49
+  First: 1201. RU2321260 (10.04.2008)
+  Last:  1250. RU2320123 (27.03.2008)
+
+=== Page 26/80 ===
+  +50 new (total: 1300, last pos: 1300)
+  Years: 2008:50
+  First: 1251. RU2320143 (27.03.2008)
+  Last:  1300. RU2321258 (10.04.2008)
+
+=== Page 27/80 ===
+  +50 new (total: 1350, last pos: 1350)
+  Years: 2008:49, 2009:1
+  First: 1301. RU2321316 (10.04.2008)
+  Last:  1350. RU2317677 (27.02.2008)
+
+=== Page 28/80 ===
+  +50 new (total: 1400, last pos: 1400)
+  Years: 2008:48, 2009:1, 2017:1
+  First: 1351. RU2317678 (27.02.2008)
+  Last:  1400. RU2320507 (27.03.2008)
+
+=== Page 29/80 ===
+  +50 new (total: 1450, last pos: 1450)
+  Years: 2007:1, 2008:49
+  First: 1401. RU2321255 (10.04.2008)
+  Last:  1450. RU2320184 (27.03.2008)
+
+=== Page 30/80 ===
+  +50 new (total: 1500, last pos: 1500)
+  Years: 2007:13, 2008:34, 2009:1, 2015:1, 2017:1
+  First: 1451. RU2320186 (27.03.2008)
+  Last:  1500. RU2308526 (20.10.2007)

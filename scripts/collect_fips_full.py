@@ -133,43 +133,57 @@ def wait_for_page_load():
 def initial_setup():
     """Open FIPS, select all DBs, check obligation, click search."""
     print('=== Step 1: Open FIPS ===')
-    browser('open', 'https://www1.fips.ru/iiss/search.xhtml', timeout=120)
-    wait_for_page_load()
-    
-    url = browser('get', 'url', timeout=15).strip()
-    print(f'  URL: {url}')
+    # Try direct search URL first; if 502, retry with backoff
+    for attempt in range(3):
+        browser('open', 'https://www1.fips.ru/iiss/search.xhtml', timeout=120, ignore_errors=True)
+        wait_for_page_load()
+        url = browser('get', 'url', timeout=30).strip()
+        title = browser('get', 'title', timeout=30).strip()
+        print(f'  Attempt {attempt+1}: URL={url}, title={title[:60]}')
+        if '502' in title or '502' in url:
+            print('  Got 502, waiting 30s before retry...')
+            time.sleep(30)
+            continue
+        if 'db.xhtml' in url or 'search.xhtml' in url:
+            break
+    else:
+        print('  ERROR: Could not open FIPS after 3 attempts')
+        return False
     
     print('=== Step 2: Expand RU patents group ===')
+    # The group may already be expanded or collapsed - click to expand
     refs, snapshot = get_refs_with_names()
     ru_group_ref = find_ref_in_snapshot(snapshot, 'Патентные документы РФ (рус.)')
     if not ru_group_ref:
-        print('  ERROR: RU group not found in snapshot')
-        print(f'  Snapshot first 500 chars: {snapshot[:500]}')
+        print('  ERROR: RU group not found')
         return False
     print(f'  RU group ref: {ru_group_ref}')
     browser('click', f'@{ru_group_ref}', timeout=30)
-    time.sleep(2)
+    time.sleep(3)
     
-    print('=== Step 3: Mark all 5 RU databases ===')
+    # Check if checkboxes appeared; if not, click again
     refs, snapshot = get_refs_with_names()
-    # Mark all unchecked checkboxes (they are the 5 RU DBs, plus status checkboxes which we skip)
-    # Status checkboxes appear AFTER "Статус документа" - check if our checkboxes are before that
-    # Simpler: just check all unchecked checkboxes with ref <= e93 (before obligation)
-    checkboxes_to_check = []
-    for ref_id, ref_info in refs.items():
-        if ref_info.get('role') == 'checkbox' and ref_info.get('checked') == False:
-            # Parse ref number
-            m = re.match(r'e(\d+)', ref_id)
-            if m:
-                num = int(m.group(1))
-                checkboxes_to_check.append((num, ref_id))
-    checkboxes_to_check.sort()
-    # Check first 5 (RU DBs) - they have lowest ref numbers
-    for num, ref_id in checkboxes_to_check[:5]:
-        browser('check', f'@{ref_id}', timeout=15)
-    time.sleep(2)
+    has_checkboxes = any(ri.get('role') == 'checkbox' for ri in refs.values())
+    if not has_checkboxes:
+        print('  Checkboxes not visible, clicking group again...')
+        browser('click', f'@{ru_group_ref}', timeout=30)
+        time.sleep(3)
+        refs, snapshot = get_refs_with_names()
     
-    # Find and click "перейти к поиску" button
+    print('=== Step 3: Click "выделить все" ===')
+    # Find "выделить все" button
+    select_all_ref = None
+    for ref_id, ref_info in refs.items():
+        if ref_info.get('role') == 'button' and 'выделить все' in ref_info.get('name', ''):
+            select_all_ref = ref_id
+            break
+    if not select_all_ref:
+        print('  ERROR: "выделить все" button not found')
+        return False
+    browser('click', f'@{select_all_ref}', timeout=30)
+    time.sleep(3)
+    
+    # Verify "перейти к поиску" button appeared
     refs, snapshot = get_refs_with_names()
     go_ref = None
     for ref_id, ref_info in refs.items():
@@ -177,7 +191,7 @@ def initial_setup():
             go_ref = ref_id
             break
     if not go_ref:
-        print('  ERROR: "перейти к поиску" button not found')
+        print('  ERROR: "перейти к поиску" button not found after select all')
         return False
     print(f'=== Step 4: Click "перейти к поиску" (ref={go_ref}) ===')
     browser('click', f'@{go_ref}', timeout=60)
@@ -191,20 +205,19 @@ def initial_setup():
     print('  On search page')
     
     print('=== Step 5: Check obligation checkbox ===')
-    # Find checkbox for obligation - look for ref after "Обязательство заключить договор" text
-    obligation_ref = find_ref_in_snapshot(snapshot, 'Обязательство заключить договор об отчуждении')
-    if not obligation_ref:
-        # Find next checkbox after the obligation text in snapshot
-        lines = snapshot.split('\n')
-        for i, line in enumerate(lines):
-            if 'Обязательство заключить договор об отчуждении' in line:
-                # Look for next checkbox ref
-                for j in range(i, min(i+5, len(lines))):
+    # Find checkbox after "Обязательство заключить договор об отчуждении" text
+    obligation_ref = None
+    lines = snapshot.split('\n')
+    for i, line in enumerate(lines):
+        if 'Обязательство заключить договор об отчуждении' in line:
+            # Look for next checkbox ref in nearby lines
+            for j in range(i, min(i+10, len(lines))):
+                if 'checkbox' in lines[j]:
                     m = re.search(r'\[ref=([a-z0-9]+)\]', lines[j])
-                    if m and 'checkbox' in lines[j]:
+                    if m:
                         obligation_ref = m.group(1)
                         break
-                break
+            break
     if not obligation_ref:
         print('  ERROR: obligation checkbox not found')
         return False
@@ -213,7 +226,7 @@ def initial_setup():
     time.sleep(1)
     
     print('=== Step 6: Click search button ===')
-    # Find top "Поиск" button - it's the first button with name "Поиск"
+    # Find top "Поиск" button - first button with name "Поиск"
     search_btn_ref = None
     for ref_id, ref_info in refs.items():
         if ref_info.get('role') == 'button' and ref_info.get('name', '').strip() == 'Поиск':
@@ -222,6 +235,7 @@ def initial_setup():
     if not search_btn_ref:
         print('  ERROR: search button not found')
         return False
+    print(f'  Search button ref: {search_btn_ref}')
     browser('click', f'@{search_btn_ref}', timeout=60)
     wait_for_page_load()
     
@@ -241,13 +255,11 @@ def initial_setup():
     
     # Check we have results
     refs, snapshot = get_refs_with_names()
-    if 'Всего найдено' in snapshot or 'Найденные документы' in snapshot:
-        # Find the count
-        m = re.search(r'Всего найдено:\s*(\d+)', snapshot)
-        if m:
-            print(f'  Total found: {m.group(1)}')
-        else:
-            print('  Results page loaded')
+    m = re.search(r'Всего найдено:\s*(\d+)', snapshot)
+    if m:
+        print(f'  Total found: {m.group(1)}')
+    else:
+        print('  WARNING: results count not found, but URL is correct')
     return True
 
 
