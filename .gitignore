@@ -52,3 +52,9 @@ prompt
 server.log
 # Skills directory
 /skills/
+# VPS / secrets
+.ssh/
+*.pem
+vps_pass*
+scripts/deploy_ipat.py.local
+scripts/check_ipat_status.py.local
