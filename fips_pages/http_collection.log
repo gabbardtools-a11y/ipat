@@ -1,0 +1,11 @@
+Loaded 2200 existing patents from progress file
+=== Step 1: Open FIPS search page ===
+    GET status 502, retry 1/5
+  Got ViewState
+  Found "выделить все": id=db-selection-form:j_idt92
+
+=== Step 2: Click "выделить все" via AJAX ===
+  WARNING: no new ViewState in response
+  Checkboxes checked: 0/13
+  ERROR: "перейти к поиску" not found
+FAILED to setup search

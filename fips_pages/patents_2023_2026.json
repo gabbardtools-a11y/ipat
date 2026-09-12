@@ -1,0 +1,1239 @@
+{
+  "total": 137,
+  "unique_doc_numbers": 117,
+  "patents": [
+    {
+      "position": 1,
+      "doc_number": "2869222",
+      "publication_date": "01.09.2026",
+      "publication_date_iso": "2026-09-01",
+      "publication_year": 2026,
+      "title": "СПОСОБ ИЗГОТОВЛЕНИЯ ПОЛУПРОВОДНИКОВЫХ ТЕНЗОЧУВСТВИТЕЛЬНЫХ ЭЛЕМЕНТОВ",
+      "database": "НИЗ"
+    },
+    {
+      "position": 2,
+      "doc_number": "2869112",
+      "publication_date": "31.08.2026",
+      "publication_date_iso": "2026-08-31",
+      "publication_year": 2026,
+      "title": "МЕЛКОДИСПЕРСНЫЙ ДОЖДЕВАТЕЛЬ-РАСПЫЛИТЕЛЬ",
+      "database": "РИ"
+    },
+    {
+      "position": 3,
+      "doc_number": "2869199",
+      "publication_date": "31.08.2026",
+      "publication_date_iso": "2026-08-31",
+      "publication_year": 2026,
+      "title": "Система и способ получения цифровых фотографий, не содержащих стеганографически встроенной информации, с маскировкой особых точек фотографий и угла съемки",
+      "database": "РИ"
+    },
+    {
+      "position": 4,
+      "doc_number": "2869200",
+      "publication_date": "31.08.2026",
+      "publication_date_iso": "2026-08-31",
+      "publication_year": 2026,
+      "title": "Способ и система формирования фото- и видеоизображений с защитой от несанкционированной передачи информации по каналам связи",
+      "database": "РИ"
+    },
+    {
+      "position": 5,
+      "doc_number": "2869222",
+      "publication_date": "01.09.2026",
+      "publication_date_iso": "2026-09-01",
+      "publication_year": 2026,
+      "title": "СПОСОБ ИЗГОТОВЛЕНИЯ ПОЛУПРОВОДНИКОВЫХ ТЕНЗОЧУВСТВИТЕЛЬНЫХ ЭЛЕМЕНТОВ",
+      "database": "РИ"
+    },
+    {
+      "position": 6,
+      "doc_number": "2869613",
+      "publication_date": "08.09.2026",
+      "publication_date_iso": "2026-09-08",
+      "publication_year": 2026,
+      "title": "СПОСОБ АМБУЛАТОРНОГО КУПИРОВАНИЯ ВЫСОКОИНТЕНСИВНОГО БОЛЕВОГО СИНДРОМА ПРИ КОКСАРТРОЗЕ С ПОМОЩЬЮ СЕЛЕКТИВНОЙ УЛЬТРАЗВУКОВОЙ БЛОКАДЫ ПЕРЕДНЕЙ КАПСУЛЫ ТАЗОБЕДРЕННОГО СУСТАВА",
+      "database": "РИ"
+    },
+    {
+      "position": 7,
+      "doc_number": "2869861",
+      "publication_date": "11.09.2026",
+      "publication_date_iso": "2026-09-11",
+      "publication_year": 2026,
+      "title": "ГАСИТЕЛЬ ЭНЕРГИИ ВОДНОГО ПОТОКА",
+      "database": "НИЗ"
+    },
+    {
+      "position": 11,
+      "doc_number": "2869112",
+      "publication_date": "31.08.2026",
+      "publication_date_iso": "2026-08-31",
+      "publication_year": 2026,
+      "title": "МЕЛКОДИСПЕРСНЫЙ ДОЖДЕВАТЕЛЬ-РАСПЫЛИТЕЛЬ",
+      "database": "НИЗ"
+    },
+    {
+      "position": 12,
+      "doc_number": "2869200",
+      "publication_date": "31.08.2026",
+      "publication_date_iso": "2026-08-31",
+      "publication_year": 2026,
+      "title": "Способ и система формирования фото- и видеоизображений с защитой от несанкционированной передачи информации по каналам связи",
+      "database": "НИЗ"
+    },
+    {
+      "position": 13,
+      "doc_number": "2869567",
+      "publication_date": "08.09.2026",
+      "publication_date_iso": "2026-09-08",
+      "publication_year": 2026,
+      "title": "ВОДОВЫПУСК ИЗ КАНАЛОВ С БУРНЫМ РЕЖИМОМ ТЕЧЕНИЯ",
+      "database": "НИЗ"
+    },
+    {
+      "position": 14,
+      "doc_number": "2869613",
+      "publication_date": "08.09.2026",
+      "publication_date_iso": "2026-09-08",
+      "publication_year": 2026,
+      "title": "СПОСОБ АМБУЛАТОРНОГО КУПИРОВАНИЯ ВЫСОКОИНТЕНСИВНОГО БОЛЕВОГО СИНДРОМА ПРИ КОКСАРТРОЗЕ С ПОМОЩЬЮ СЕЛЕКТИВНОЙ УЛЬТРАЗВУКОВОЙ БЛОКАДЫ ПЕРЕДНЕЙ КАПСУЛЫ ТАЗОБЕДРЕННОГО СУСТАВА",
+      "database": "НИЗ"
+    },
+    {
+      "position": 487,
+      "doc_number": "2868604",
+      "publication_date": "24.08.2026",
+      "publication_date_iso": "2026-08-24",
+      "publication_year": 2026,
+      "title": "УСТРОЙСТВО ИЗМЕНЕНИЯ ВЕКТОРА ТЯГИ ДЛЯ ПУЛЬСИРУЮЩИХ ВОЗДУШНО-РЕАКТИВНЫХ ДВИГАТЕЛЕЙ (УИВТПуВРД) И СПОСОБ ФУНКЦИОНИРОВАНИЯ УИВТПуВРД",
+      "database": "РИ"
+    },
+    {
+      "position": 488,
+      "doc_number": "2868730",
+      "publication_date": "24.08.2026",
+      "publication_date_iso": "2026-08-24",
+      "publication_year": 2026,
+      "title": "СПОСОБ РАБОТЫ ДВИГАТЕЛЯ БЕСПИЛОТНОГО ЛЕТАТЕЛЬНОГО АППАРАТА",
+      "database": "РИ"
+    },
+    {
+      "position": 628,
+      "doc_number": "2867959",
+      "publication_date": "11.08.2026",
+      "publication_date_iso": "2026-08-11",
+      "publication_year": 2026,
+      "title": "ФОЛЬГОВЫЙ ТЕНЗОРЕЗИСТОР С РЕГУЛИРУЕМЫМ СОПРОТИВЛЕНИЕМ",
+      "database": "НИЗ"
+    },
+    {
+      "position": 629,
+      "doc_number": "2868360",
+      "publication_date": "18.08.2026",
+      "publication_date_iso": "2026-08-18",
+      "publication_year": 2026,
+      "title": "Трехколесное грузовое шасси",
+      "database": "НИЗ"
+    },
+    {
+      "position": 630,
+      "doc_number": "2868382",
+      "publication_date": "18.08.2026",
+      "publication_date_iso": "2026-08-18",
+      "publication_year": 2026,
+      "title": "Способ диагностики полушарной специализации человека",
+      "database": "НИЗ"
+    },
+    {
+      "position": 637,
+      "doc_number": "2867872",
+      "publication_date": "11.08.2026",
+      "publication_date_iso": "2026-08-11",
+      "publication_year": 2026,
+      "title": "Способ приготовления комплекса суточных диетических блюд",
+      "database": "РИ"
+    },
+    {
+      "position": 638,
+      "doc_number": "2867959",
+      "publication_date": "11.08.2026",
+      "publication_date_iso": "2026-08-11",
+      "publication_year": 2026,
+      "title": "ФОЛЬГОВЫЙ ТЕНЗОРЕЗИСТОР С РЕГУЛИРУЕМЫМ СОПРОТИВЛЕНИЕМ",
+      "database": "РИ"
+    },
+    {
+      "position": 639,
+      "doc_number": "2868360",
+      "publication_date": "18.08.2026",
+      "publication_date_iso": "2026-08-18",
+      "publication_year": 2026,
+      "title": "Трехколесное грузовое шасси",
+      "database": "РИ"
+    },
+    {
+      "position": 640,
+      "doc_number": "2868382",
+      "publication_date": "18.08.2026",
+      "publication_date_iso": "2026-08-18",
+      "publication_year": 2026,
+      "title": "Способ диагностики полушарной специализации человека",
+      "database": "РИ"
+    },
+    {
+      "position": 823,
+      "doc_number": "2867079",
+      "publication_date": "28.07.2026",
+      "publication_date_iso": "2026-07-28",
+      "publication_year": 2026,
+      "title": "ОКТОБАС ОРКЕСТРОВЫЙ",
+      "database": "РИ"
+    },
+    {
+      "position": 824,
+      "doc_number": "2867352",
+      "publication_date": "31.07.2026",
+      "publication_date_iso": "2026-07-31",
+      "publication_year": 2026,
+      "title": "Гидрообъёмный рулевой механизм",
+      "database": "РИ"
+    },
+    {
+      "position": 825,
+      "doc_number": "2867422",
+      "publication_date": "03.08.2026",
+      "publication_date_iso": "2026-08-03",
+      "publication_year": 2026,
+      "title": "СПОСОБ МОНТАЖА ПОЛУПРОВОДНИКОВЫХ КРИСТАЛЛОВ",
+      "database": "РИ"
+    },
+    {
+      "position": 826,
+      "doc_number": "2867423",
+      "publication_date": "03.08.2026",
+      "publication_date_iso": "2026-08-03",
+      "publication_year": 2026,
+      "title": "МЕТАЛЛОФОН",
+      "database": "РИ"
+    },
+    {
+      "position": 914,
+      "doc_number": "2866945",
+      "publication_date": "27.07.2026",
+      "publication_date_iso": "2026-07-27",
+      "publication_year": 2026,
+      "title": "РАМА ДЛЯ МОТОЦИКЛА",
+      "database": "РИ"
+    },
+    {
+      "position": 944,
+      "doc_number": "2866574",
+      "publication_date": "21.07.2026",
+      "publication_date_iso": "2026-07-21",
+      "publication_year": 2026,
+      "title": "Способ формирования сообщений в реальном времени, оповещающих о наступлении навигационных событий, на основе интегрированных разнородных данных морской отрасли и морская геоинформационная интегрирующая платформа реального времени для осуществления способа",
+      "database": "РИ"
+    },
+    {
+      "position": 947,
+      "doc_number": "2866426",
+      "publication_date": "20.07.2026",
+      "publication_date_iso": "2026-07-20",
+      "publication_year": 2026,
+      "title": "Воздухозаборник авиационного турбореактивного двигателя",
+      "database": "РИ"
+    },
+    {
+      "position": 948,
+      "doc_number": "2865993",
+      "publication_date": "13.07.2026",
+      "publication_date_iso": "2026-07-13",
+      "publication_year": 2026,
+      "title": "Способ химической очистки внутренней поверхности трубы при внутритрубной диагностике магистральных трубопроводов",
+      "database": "РИ"
+    },
+    {
+      "position": 949,
+      "doc_number": "2866082",
+      "publication_date": "13.07.2026",
+      "publication_date_iso": "2026-07-13",
+      "publication_year": 2026,
+      "title": "МОСТ ПОЛУПРОВОДНИКОВЫХ ТЕНЗОРЕЗИСТОРОВ",
+      "database": "РИ"
+    },
+    {
+      "position": 980,
+      "doc_number": "2798684",
+      "publication_date": "23.06.2023",
+      "publication_date_iso": "2023-06-23",
+      "publication_year": 2023,
+      "title": "Устройство компьютерной системы панорамного телевизионного наблюдения для беспилотного летательного аппарата",
+      "database": "РИ"
+    },
+    {
+      "position": 1011,
+      "doc_number": "2869093",
+      "publication_date": "31.08.2026",
+      "publication_date_iso": "2026-08-31",
+      "publication_year": 2026,
+      "title": "Способ определения частоты и устройство его реализующее",
+      "database": "НИЗ"
+    },
+    {
+      "position": 1012,
+      "doc_number": "2869173",
+      "publication_date": "31.08.2026",
+      "publication_date_iso": "2026-08-31",
+      "publication_year": 2026,
+      "title": "СПОСОБ РАБОТЫ ПАРОВОЙ МАШИНЫ ПАРОВОЗА",
+      "database": "НИЗ"
+    },
+    {
+      "position": 1013,
+      "doc_number": "2869199",
+      "publication_date": "31.08.2026",
+      "publication_date_iso": "2026-08-31",
+      "publication_year": 2026,
+      "title": "Система и способ получения цифровых фотографий, не содержащих стеганографически встроенной информации, с маскировкой особых точек фотографий и угла съемки",
+      "database": "НИЗ"
+    },
+    {
+      "position": 1014,
+      "doc_number": "2869219",
+      "publication_date": "01.09.2026",
+      "publication_date_iso": "2026-09-01",
+      "publication_year": 2026,
+      "title": "ИНФОРМАЦИОННО-ИЗМЕРИТЕЛЬНОЕ УСТРОЙСТВО ДЛЯ ОПРЕДЕЛЕНИЯ СКОРОСТИ ТРАНСПОРТНОГО СРЕДСТВА",
+      "database": "НИЗ"
+    },
+    {
+      "position": 1015,
+      "doc_number": "2869093",
+      "publication_date": "31.08.2026",
+      "publication_date_iso": "2026-08-31",
+      "publication_year": 2026,
+      "title": "Способ определения частоты и устройство его реализующее",
+      "database": "РИ"
+    },
+    {
+      "position": 1016,
+      "doc_number": "2869173",
+      "publication_date": "31.08.2026",
+      "publication_date_iso": "2026-08-31",
+      "publication_year": 2026,
+      "title": "СПОСОБ РАБОТЫ ПАРОВОЙ МАШИНЫ ПАРОВОЗА",
+      "database": "РИ"
+    },
+    {
+      "position": 1017,
+      "doc_number": "2869219",
+      "publication_date": "01.09.2026",
+      "publication_date_iso": "2026-09-01",
+      "publication_year": 2026,
+      "title": "ИНФОРМАЦИОННО-ИЗМЕРИТЕЛЬНОЕ УСТРОЙСТВО ДЛЯ ОПРЕДЕЛЕНИЯ СКОРОСТИ ТРАНСПОРТНОГО СРЕДСТВА",
+      "database": "РИ"
+    },
+    {
+      "position": 1018,
+      "doc_number": "2869567",
+      "publication_date": "08.09.2026",
+      "publication_date_iso": "2026-09-08",
+      "publication_year": 2026,
+      "title": "ВОДОВЫПУСК ИЗ КАНАЛОВ С БУРНЫМ РЕЖИМОМ ТЕЧЕНИЯ",
+      "database": "РИ"
+    },
+    {
+      "position": 1528,
+      "doc_number": "2868604",
+      "publication_date": "24.08.2026",
+      "publication_date_iso": "2026-08-24",
+      "publication_year": 2026,
+      "title": "УСТРОЙСТВО ИЗМЕНЕНИЯ ВЕКТОРА ТЯГИ ДЛЯ ПУЛЬСИРУЮЩИХ ВОЗДУШНО-РЕАКТИВНЫХ ДВИГАТЕЛЕЙ (УИВТПуВРД) И СПОСОБ ФУНКЦИОНИРОВАНИЯ УИВТПуВРД",
+      "database": "НИЗ"
+    },
+    {
+      "position": 1529,
+      "doc_number": "2868636",
+      "publication_date": "24.08.2026",
+      "publication_date_iso": "2026-08-24",
+      "publication_year": 2026,
+      "title": "Атомная электрическая станция",
+      "database": "НИЗ"
+    },
+    {
+      "position": 1530,
+      "doc_number": "2868656",
+      "publication_date": "24.08.2026",
+      "publication_date_iso": "2026-08-24",
+      "publication_year": 2026,
+      "title": "СНЕГООЧИСТИТЕЛЬ ДЛЯ ПУТЕЙ МЕТРОПОЛИТЕНА",
+      "database": "НИЗ"
+    },
+    {
+      "position": 1531,
+      "doc_number": "2868730",
+      "publication_date": "24.08.2026",
+      "publication_date_iso": "2026-08-24",
+      "publication_year": 2026,
+      "title": "СПОСОБ РАБОТЫ ДВИГАТЕЛЯ БЕСПИЛОТНОГО ЛЕТАТЕЛЬНОГО АППАРАТА",
+      "database": "НИЗ"
+    },
+    {
+      "position": 1532,
+      "doc_number": "2868656",
+      "publication_date": "24.08.2026",
+      "publication_date_iso": "2026-08-24",
+      "publication_year": 2026,
+      "title": "СНЕГООЧИСТИТЕЛЬ ДЛЯ ПУТЕЙ МЕТРОПОЛИТЕНА",
+      "database": "РИ"
+    },
+    {
+      "position": 1533,
+      "doc_number": "2868636",
+      "publication_date": "24.08.2026",
+      "publication_date_iso": "2026-08-24",
+      "publication_year": 2026,
+      "title": "Атомная электрическая станция",
+      "database": "РИ"
+    },
+    {
+      "position": 1683,
+      "doc_number": "2867907",
+      "publication_date": "11.08.2026",
+      "publication_date_iso": "2026-08-11",
+      "publication_year": 2026,
+      "title": "НАРУЖНАЯ РУЧКА БОКОВОЙ ДВЕРИ ТРАНСПОРТНОГО СРЕДСТВА",
+      "database": "РИ"
+    },
+    {
+      "position": 1684,
+      "doc_number": "2867915",
+      "publication_date": "11.08.2026",
+      "publication_date_iso": "2026-08-11",
+      "publication_year": 2026,
+      "title": "Способ профилактики рецидивов при синдроме зависимости от психоактивных веществ по проф. А.С. Кудрину",
+      "database": "РИ"
+    },
+    {
+      "position": 1685,
+      "doc_number": "2867921",
+      "publication_date": "11.08.2026",
+      "publication_date_iso": "2026-08-11",
+      "publication_year": 2026,
+      "title": "Способ развития физической активности в водоёме посредством плавания на спине ногами вперед",
+      "database": "РИ"
+    },
+    {
+      "position": 1688,
+      "doc_number": "2867915",
+      "publication_date": "11.08.2026",
+      "publication_date_iso": "2026-08-11",
+      "publication_year": 2026,
+      "title": "Способ профилактики рецидивов при синдроме зависимости от психоактивных веществ по проф. А.С. Кудрину",
+      "database": "НИЗ"
+    },
+    {
+      "position": 1689,
+      "doc_number": "2867907",
+      "publication_date": "11.08.2026",
+      "publication_date_iso": "2026-08-11",
+      "publication_year": 2026,
+      "title": "НАРУЖНАЯ РУЧКА БОКОВОЙ ДВЕРИ ТРАНСПОРТНОГО СРЕДСТВА",
+      "database": "НИЗ"
+    },
+    {
+      "position": 1690,
+      "doc_number": "2867872",
+      "publication_date": "11.08.2026",
+      "publication_date_iso": "2026-08-11",
+      "publication_year": 2026,
+      "title": "Способ приготовления комплекса суточных диетических блюд",
+      "database": "НИЗ"
+    },
+    {
+      "position": 1691,
+      "doc_number": "2867921",
+      "publication_date": "11.08.2026",
+      "publication_date_iso": "2026-08-11",
+      "publication_year": 2026,
+      "title": "Способ развития физической активности в водоёме посредством плавания на спине ногами вперед",
+      "database": "НИЗ"
+    },
+    {
+      "position": 1870,
+      "doc_number": "2867083",
+      "publication_date": "28.07.2026",
+      "publication_date_iso": "2026-07-28",
+      "publication_year": 2026,
+      "title": "Трехкомпонентный приемник градиента давления",
+      "database": "РИ"
+    },
+    {
+      "position": 1871,
+      "doc_number": "2867424",
+      "publication_date": "03.08.2026",
+      "publication_date_iso": "2026-08-03",
+      "publication_year": 2026,
+      "title": "УДАРНЫЙ МУЗЫКАЛЬНЫЙ ИНСТРУМЕНТ",
+      "database": "РИ"
+    },
+    {
+      "position": 1983,
+      "doc_number": "2866622",
+      "publication_date": "21.07.2026",
+      "publication_date_iso": "2026-07-21",
+      "publication_year": 2026,
+      "title": "Ленточный магнитопровод кругового трансформатора",
+      "database": "РИ"
+    },
+    {
+      "position": 1984,
+      "doc_number": "2866702",
+      "publication_date": "21.07.2026",
+      "publication_date_iso": "2026-07-21",
+      "publication_year": 2026,
+      "title": "Основание ракетки для настольного тенниса, выполненное с семью слоями",
+      "database": "РИ"
+    },
+    {
+      "position": 1986,
+      "doc_number": "2866977",
+      "publication_date": "27.07.2026",
+      "publication_date_iso": "2026-07-27",
+      "publication_year": 2026,
+      "title": "Подземное защищённое хранилище для светлых нефтепродуктов и способ его сооружения",
+      "database": "РИ"
+    },
+    {
+      "position": 2018,
+      "doc_number": "2866486",
+      "publication_date": "20.07.2026",
+      "publication_date_iso": "2026-07-20",
+      "publication_year": 2026,
+      "title": "КОНТРАБАС ОРКЕСТРОВЫЙ",
+      "database": "РИ"
+    },
+    {
+      "position": 2019,
+      "doc_number": "2865983",
+      "publication_date": "13.07.2026",
+      "publication_date_iso": "2026-07-13",
+      "publication_year": 2026,
+      "title": "Поточный выпарной аппарат системы Девяткина С.П.",
+      "database": "РИ"
+    },
+    {
+      "position": 2020,
+      "doc_number": "2865995",
+      "publication_date": "13.07.2026",
+      "publication_date_iso": "2026-07-13",
+      "publication_year": 2026,
+      "title": "ЦИЛИНДР ДВС С ЖИДКОСТНЫМ ОХЛАЖДЕНИЕМ",
+      "database": "РИ"
+    },
+    {
+      "position": 2021,
+      "doc_number": "2865997",
+      "publication_date": "13.07.2026",
+      "publication_date_iso": "2026-07-13",
+      "publication_year": 2026,
+      "title": "УЗЕЛ ПОРШНЯ ДВС",
+      "database": "РИ"
+    },
+    {
+      "position": 2022,
+      "doc_number": "2866078",
+      "publication_date": "13.07.2026",
+      "publication_date_iso": "2026-07-13",
+      "publication_year": 2026,
+      "title": "ОКТОБАС",
+      "database": "РИ"
+    },
+    {
+      "position": 2058,
+      "doc_number": "2791711",
+      "publication_date": "13.03.2023",
+      "publication_date_iso": "2023-03-13",
+      "publication_year": 2023,
+      "title": "Устройство компьютерной системы панорамного телевизионного наблюдения",
+      "database": "РИ"
+    },
+    {
+      "position": 2091,
+      "doc_number": "2865368",
+      "publication_date": "01.07.2026",
+      "publication_date_iso": "2026-07-01",
+      "publication_year": 2026,
+      "title": "ГАСИТЕЛЬ ЭНЕРГИИ ВОДНОГО ПОТОКА",
+      "database": "РИ"
+    },
+    {
+      "position": 2092,
+      "doc_number": "2865369",
+      "publication_date": "01.07.2026",
+      "publication_date_iso": "2026-07-01",
+      "publication_year": 2026,
+      "title": "ГАСИТЕЛЬ ЭНЕРГИИ ВОДНОГО ПОТОКА",
+      "database": "РИ"
+    },
+    {
+      "position": 2093,
+      "doc_number": "2865382",
+      "publication_date": "01.07.2026",
+      "publication_date_iso": "2026-07-01",
+      "publication_year": 2026,
+      "title": "Основание ракетки для настольного тенниса, выполненное с семью слоями",
+      "database": "РИ"
+    },
+    {
+      "position": 2094,
+      "doc_number": "2865575",
+      "publication_date": "07.07.2026",
+      "publication_date_iso": "2026-07-07",
+      "publication_year": 2026,
+      "title": "БЕСПИЛОТНЫЙ ВЫСЕВАЮЩИЙ АППАРАТ",
+      "database": "РИ"
+    },
+    {
+      "position": 2096,
+      "doc_number": "2864822",
+      "publication_date": "29.06.2026",
+      "publication_date_iso": "2026-06-29",
+      "publication_year": 2026,
+      "title": "МНОГОФУНКЦИОНАЛЬНЫЙ БЕСПИЛОТНЫЙ ЛЕТАТЕЛЬНЫЙ АППАРАТ",
+      "database": "РИ"
+    },
+    {
+      "position": 2097,
+      "doc_number": "2864918",
+      "publication_date": "30.06.2026",
+      "publication_date_iso": "2026-06-30",
+      "publication_year": 2026,
+      "title": "СПОСОБ ПРОИЗВОДСТВА ЧАЯ",
+      "database": "РИ"
+    },
+    {
+      "position": 2098,
+      "doc_number": "2864919",
+      "publication_date": "30.06.2026",
+      "publication_date_iso": "2026-06-30",
+      "publication_year": 2026,
+      "title": "СПОСОБ ПРОИЗВОДСТВА ФУНКЦИОНАЛЬНОГО ЧАЙНОГО НАПИТКА",
+      "database": "РИ"
+    },
+    {
+      "position": 2099,
+      "doc_number": "2864925",
+      "publication_date": "30.06.2026",
+      "publication_date_iso": "2026-06-30",
+      "publication_year": 2026,
+      "title": "СПОСОБ ОСУШЕНИЯ ЗАТОПЛЕННЫХ ЗАМКНУТЫХ ПОНИЖЕНИЙ",
+      "database": "РИ"
+    },
+    {
+      "position": 2100,
+      "doc_number": "2865077",
+      "publication_date": "30.06.2026",
+      "publication_date_iso": "2026-06-30",
+      "publication_year": 2026,
+      "title": "ИЗОБАРИЧЕСКИЙ ПОРШНЕВОЙ ДВИГАТЕЛЬ ВНУТРЕННЕГО СГОРАНИЯ",
+      "database": "РИ"
+    },
+    {
+      "position": 2135,
+      "doc_number": "2857932",
+      "publication_date": "11.03.2026",
+      "publication_date_iso": "2026-03-11",
+      "publication_year": 2026,
+      "title": "РОБОТ",
+      "database": "РИ"
+    },
+    {
+      "position": 2136,
+      "doc_number": "2857934",
+      "publication_date": "11.03.2026",
+      "publication_date_iso": "2026-03-11",
+      "publication_year": 2026,
+      "title": "Устройство для выявления приоритетности конкретной или абстрактной специализации человека",
+      "database": "РИ"
+    },
+    {
+      "position": 2137,
+      "doc_number": "2857998",
+      "publication_date": "11.03.2026",
+      "publication_date_iso": "2026-03-11",
+      "publication_year": 2026,
+      "title": "ПРИСПОСОБЛЕНИЕ, ПРЕДНАЗНАЧЕННОЕ ДЛЯ ИСПОЛЬЗОВАНИЯ ПРИ ОПРЕДЕЛЕНИИ КОЭФФИЦИЕНТА ТРЕНИЯ В РЕЗЬБЕ",
+      "database": "РИ"
+    },
+    {
+      "position": 2138,
+      "doc_number": "2858003",
+      "publication_date": "11.03.2026",
+      "publication_date_iso": "2026-03-11",
+      "publication_year": 2026,
+      "title": "Устройство для картографирования рельефа морского дна",
+      "database": "РИ"
+    },
+    {
+      "position": 2139,
+      "doc_number": "2858298",
+      "publication_date": "17.03.2026",
+      "publication_date_iso": "2026-03-17",
+      "publication_year": 2026,
+      "title": "ПОНЧИК",
+      "database": "РИ"
+    },
+    {
+      "position": 2140,
+      "doc_number": "2858473",
+      "publication_date": "17.03.2026",
+      "publication_date_iso": "2026-03-17",
+      "publication_year": 2026,
+      "title": "Станционное модульное платформенное ограждение метрополитена",
+      "database": "РИ"
+    },
+    {
+      "position": 2141,
+      "doc_number": "2858922",
+      "publication_date": "24.03.2026",
+      "publication_date_iso": "2026-03-24",
+      "publication_year": 2026,
+      "title": "Подводный переход сборно-разборного трубопровода",
+      "database": "РИ"
+    },
+    {
+      "position": 2142,
+      "doc_number": "2859259",
+      "publication_date": "31.03.2026",
+      "publication_date_iso": "2026-03-31",
+      "publication_year": 2026,
+      "title": "Дисковый снаряд",
+      "database": "РИ"
+    },
+    {
+      "position": 2143,
+      "doc_number": "2859347",
+      "publication_date": "31.03.2026",
+      "publication_date_iso": "2026-03-31",
+      "publication_year": 2026,
+      "title": "Летательный аппарат с вертикальным взлётом и посадкой",
+      "database": "РИ"
+    },
+    {
+      "position": 2144,
+      "doc_number": "2859693",
+      "publication_date": "07.04.2026",
+      "publication_date_iso": "2026-04-07",
+      "publication_year": 2026,
+      "title": "Способ и устройство для определения звездной величины небесных светил для астронавигации",
+      "database": "РИ"
+    },
+    {
+      "position": 2145,
+      "doc_number": "2859694",
+      "publication_date": "07.04.2026",
+      "publication_date_iso": "2026-04-07",
+      "publication_year": 2026,
+      "title": "ГРИФ СТРУННЫХ МУЗЫКАЛЬНЫХ ИНСТРУМЕНТОВ",
+      "database": "РИ"
+    },
+    {
+      "position": 2146,
+      "doc_number": "2859940",
+      "publication_date": "13.04.2026",
+      "publication_date_iso": "2026-04-13",
+      "publication_year": 2026,
+      "title": "ИСТОЧНИК ЭЛЕКТРОПИТАНИЯ С СИСТЕМОЙ ПОДЗАРЯДКИ",
+      "database": "РИ"
+    },
+    {
+      "position": 2147,
+      "doc_number": "2860158",
+      "publication_date": "14.04.2026",
+      "publication_date_iso": "2026-04-14",
+      "publication_year": 2026,
+      "title": "ДАТЧИК УГЛА",
+      "database": "РИ"
+    },
+    {
+      "position": 2148,
+      "doc_number": "2860349",
+      "publication_date": "16.04.2026",
+      "publication_date_iso": "2026-04-16",
+      "publication_year": 2026,
+      "title": "Пружинное ружье",
+      "database": "РИ"
+    },
+    {
+      "position": 2149,
+      "doc_number": "2860528",
+      "publication_date": "21.04.2026",
+      "publication_date_iso": "2026-04-21",
+      "publication_year": 2026,
+      "title": "Малая атомная подводная лодка",
+      "database": "РИ"
+    },
+    {
+      "position": 2150,
+      "doc_number": "2860599",
+      "publication_date": "21.04.2026",
+      "publication_date_iso": "2026-04-21",
+      "publication_year": 2026,
+      "title": "Устройство для определения доминирующего полушария головного мозга человека",
+      "database": "РИ"
+    },
+    {
+      "position": 2151,
+      "doc_number": "2860680",
+      "publication_date": "21.04.2026",
+      "publication_date_iso": "2026-04-21",
+      "publication_year": 2026,
+      "title": "Способ определения характеристик аврорального овала и состояния магнитного поля Земли",
+      "database": "РИ"
+    },
+    {
+      "position": 2152,
+      "doc_number": "2860972",
+      "publication_date": "28.04.2026",
+      "publication_date_iso": "2026-04-28",
+      "publication_year": 2026,
+      "title": "Устройство компьютерной системы панорамного телевизионного наблюдения с повышенной разрешающей способностью",
+      "database": "РИ"
+    },
+    {
+      "position": 2153,
+      "doc_number": "2861297",
+      "publication_date": "04.05.2026",
+      "publication_date_iso": "2026-05-04",
+      "publication_year": 2026,
+      "title": "КОНВЕЙЕРНАЯ ЭЛЕКТРОСТАНЦИЯ",
+      "database": "РИ"
+    },
+    {
+      "position": 2154,
+      "doc_number": "2861309",
+      "publication_date": "04.05.2026",
+      "publication_date_iso": "2026-05-04",
+      "publication_year": 2026,
+      "title": "Глубоководная обитаемая станция с атомной энергетической установкой малой мощности",
+      "database": "РИ"
+    },
+    {
+      "position": 2155,
+      "doc_number": "2861347",
+      "publication_date": "05.05.2026",
+      "publication_date_iso": "2026-05-05",
+      "publication_year": 2026,
+      "title": "Пьезоэлектрический привод",
+      "database": "РИ"
+    },
+    {
+      "position": 2156,
+      "doc_number": "2861376",
+      "publication_date": "05.05.2026",
+      "publication_date_iso": "2026-05-05",
+      "publication_year": 2026,
+      "title": "Клиновая розетка для вилки с гравитационным удержанием контакта",
+      "database": "РИ"
+    },
+    {
+      "position": 2157,
+      "doc_number": "2861377",
+      "publication_date": "05.05.2026",
+      "publication_date_iso": "2026-05-05",
+      "publication_year": 2026,
+      "title": "Способ усиления прямоугольных импульсов и варианты усилительного устройства",
+      "database": "РИ"
+    },
+    {
+      "position": 2158,
+      "doc_number": "2861385",
+      "publication_date": "05.05.2026",
+      "publication_date_iso": "2026-05-05",
+      "publication_year": 2026,
+      "title": "Устройство компьютерной системы панорамного телевизионного наблюдения для беспилотного летательного аппарата",
+      "database": "РИ"
+    },
+    {
+      "position": 2159,
+      "doc_number": "2861838",
+      "publication_date": "13.05.2026",
+      "publication_date_iso": "2026-05-13",
+      "publication_year": 2026,
+      "title": "РЕГУЛИРУЕМЫЙ ТРАНСФОРМАТОР",
+      "database": "РИ"
+    },
+    {
+      "position": 2160,
+      "doc_number": "2861926",
+      "publication_date": "13.05.2026",
+      "publication_date_iso": "2026-05-13",
+      "publication_year": 2026,
+      "title": "СПОСОБ ИЗМЕНЕНИЯ СТЕПЕНИ СЖАТИЯ ДВИГАТЕЛЯ ВНУТРЕННЕГО СГОРАНИЯ",
+      "database": "РИ"
+    },
+    {
+      "position": 2161,
+      "doc_number": "2862148",
+      "publication_date": "15.05.2026",
+      "publication_date_iso": "2026-05-15",
+      "publication_year": 2026,
+      "title": "СУДОВАЯ ВЕТРОЭНЕРГЕТИЧЕСКАЯ СИСТЕМА",
+      "database": "РИ"
+    },
+    {
+      "position": 2162,
+      "doc_number": "2863365",
+      "publication_date": "02.06.2026",
+      "publication_date_iso": "2026-06-02",
+      "publication_year": 2026,
+      "title": "Основание ракетки для настольного тенниса, выполненное с семью слоями",
+      "database": "РИ"
+    },
+    {
+      "position": 2163,
+      "doc_number": "2863649",
+      "publication_date": "08.06.2026",
+      "publication_date_iso": "2026-06-08",
+      "publication_year": 2026,
+      "title": "Способ очистки крыш от снега",
+      "database": "РИ"
+    },
+    {
+      "position": 2164,
+      "doc_number": "2864071",
+      "publication_date": "17.06.2026",
+      "publication_date_iso": "2026-06-17",
+      "publication_year": 2026,
+      "title": "Переднеприводная мототрансмиссия мототранспортного средства",
+      "database": "РИ"
+    },
+    {
+      "position": 2165,
+      "doc_number": "2864163",
+      "publication_date": "18.06.2026",
+      "publication_date_iso": "2026-06-18",
+      "publication_year": 2026,
+      "title": "Мощный теплопроводный полупроводниковый прибор",
+      "database": "РИ"
+    },
+    {
+      "position": 2166,
+      "doc_number": "2843385",
+      "publication_date": "14.07.2025",
+      "publication_date_iso": "2025-07-14",
+      "publication_year": 2025,
+      "title": "КОМБИНИРОВАННЫЙ РЕАКТИВНЫЙ АВИАЦИОННЫЙ БОЕПРИПАС (КРАБ), СПОСОБ ФУНКЦИОНИРОВАНИЯ КРАБ И СПОСОБ УНИЧТОЖЕНИЯ СРЕДСТВ ПВО ПРОТИВНИКА С ПРИМЕНЕНИЕМ ДВУХ КРАБ (ВАРИАНТЫ)",
+      "database": "РИ"
+    },
+    {
+      "position": 2167,
+      "doc_number": "2843725",
+      "publication_date": "17.07.2025",
+      "publication_date_iso": "2025-07-17",
+      "publication_year": 2025,
+      "title": "Кистевой массажер",
+      "database": "РИ"
+    },
+    {
+      "position": 2168,
+      "doc_number": "2843727",
+      "publication_date": "17.07.2025",
+      "publication_date_iso": "2025-07-17",
+      "publication_year": 2025,
+      "title": "Способ установки комбинированного анкера",
+      "database": "РИ"
+    },
+    {
+      "position": 2169,
+      "doc_number": "2843777",
+      "publication_date": "18.07.2025",
+      "publication_date_iso": "2025-07-18",
+      "publication_year": 2025,
+      "title": "Способ устранения миофасциальной боли",
+      "database": "РИ"
+    },
+    {
+      "position": 2170,
+      "doc_number": "2844183",
+      "publication_date": "28.07.2025",
+      "publication_date_iso": "2025-07-28",
+      "publication_year": 2025,
+      "title": "Способ осуществления и регулирования осевого усилия на валу",
+      "database": "РИ"
+    },
+    {
+      "position": 2171,
+      "doc_number": "2844238",
+      "publication_date": "28.07.2025",
+      "publication_date_iso": "2025-07-28",
+      "publication_year": 2025,
+      "title": "ИНВАЛИДНАЯ КОЛЯСКА ДЛЯ ДОМАШНИХ СОБАК",
+      "database": "РИ"
+    },
+    {
+      "position": 2172,
+      "doc_number": "2844532",
+      "publication_date": "04.08.2025",
+      "publication_date_iso": "2025-08-04",
+      "publication_year": 2025,
+      "title": "Складной трап для ванны",
+      "database": "РИ"
+    },
+    {
+      "position": 2173,
+      "doc_number": "2844597",
+      "publication_date": "04.08.2025",
+      "publication_date_iso": "2025-08-04",
+      "publication_year": 2025,
+      "title": "ТУРБОРЕАКТИВНЫЙ ДВИГАТЕЛЬ С ЭЖЕКТОРНЫМ НАДДУВОМ",
+      "database": "РИ"
+    },
+    {
+      "position": 2174,
+      "doc_number": "2844638",
+      "publication_date": "04.08.2025",
+      "publication_date_iso": "2025-08-04",
+      "publication_year": 2025,
+      "title": "Беспилотная инфразвуковая пушка",
+      "database": "РИ"
+    },
+    {
+      "position": 2175,
+      "doc_number": "2844670",
+      "publication_date": "04.08.2025",
+      "publication_date_iso": "2025-08-04",
+      "publication_year": 2025,
+      "title": "Тороидальный трубчатый теплообменник",
+      "database": "РИ"
+    },
+    {
+      "position": 2176,
+      "doc_number": "2845043",
+      "publication_date": "13.08.2025",
+      "publication_date_iso": "2025-08-13",
+      "publication_year": 2025,
+      "title": "СПОСОБ ОПРЕДЕЛЕНИЯ ОКТАНОВОГО ЧИСЛА ТОПЛИВА",
+      "database": "РИ"
+    },
+    {
+      "position": 2177,
+      "doc_number": "2845101",
+      "publication_date": "13.08.2025",
+      "publication_date_iso": "2025-08-13",
+      "publication_year": 2025,
+      "title": "Способ предоперационной подготовки тазобедренного сустава к тотальному эндопротезированию у пациентов с псевдоартрозом шейки бедренной кости",
+      "database": "РИ"
+    },
+    {
+      "position": 2178,
+      "doc_number": "2845240",
+      "publication_date": "15.08.2025",
+      "publication_date_iso": "2025-08-15",
+      "publication_year": 2025,
+      "title": "Машина для резки преднапряженных бетонных изделий",
+      "database": "РИ"
+    },
+    {
+      "position": 2179,
+      "doc_number": "2845332",
+      "publication_date": "15.08.2025",
+      "publication_date_iso": "2025-08-15",
+      "publication_year": 2025,
+      "title": "КОЛЬЦЕВАЯ ЩЕЛЕВАЯ АНТЕННА",
+      "database": "РИ"
+    },
+    {
+      "position": 2180,
+      "doc_number": "2845611",
+      "publication_date": "25.08.2025",
+      "publication_date_iso": "2025-08-25",
+      "publication_year": 2025,
+      "title": "МИКРОКОНТРОЛЛЕРНЫЙ ИЗМЕРИТЕЛЬНЫЙ ПРЕОБРАЗОВАТЕЛЬ ЕМКОСТИ, ИНДУКТИВНОСТИ И СОПРОТИВЛЕНИЯ В ДВОИЧНЫЙ КОД",
+      "database": "РИ"
+    },
+    {
+      "position": 2181,
+      "doc_number": "2845617",
+      "publication_date": "25.08.2025",
+      "publication_date_iso": "2025-08-25",
+      "publication_year": 2025,
+      "title": "КОМПЛЕКСНАЯ ДОБАВКА ДЛЯ КЕРАМИЧЕСКИХ ИЗДЕЛИЙ ИЗ ГЛИНИСТОГО СЫРЬЯ И СПОСОБ ЕЕ ПРИГОТОВЛЕНИЯ",
+      "database": "РИ"
+    },
+    {
+      "position": 2182,
+      "doc_number": "2845623",
+      "publication_date": "25.08.2025",
+      "publication_date_iso": "2025-08-25",
+      "publication_year": 2025,
+      "title": "ПРИБОР ДЛЯ ПИТЬЯ",
+      "database": "РИ"
+    },
+    {
+      "position": 2183,
+      "doc_number": "2845625",
+      "publication_date": "25.08.2025",
+      "publication_date_iso": "2025-08-25",
+      "publication_year": 2025,
+      "title": "ПИШУЩИЙ УЗЕЛ",
+      "database": "РИ"
+    },
+    {
+      "position": 2184,
+      "doc_number": "2845628",
+      "publication_date": "25.08.2025",
+      "publication_date_iso": "2025-08-25",
+      "publication_year": 2025,
+      "title": "Устройство и способ для изготовления бурильных переводников в трубонарезном станке",
+      "database": "РИ"
+    },
+    {
+      "position": 2185,
+      "doc_number": "2846085",
+      "publication_date": "29.08.2025",
+      "publication_date_iso": "2025-08-29",
+      "publication_year": 2025,
+      "title": "СНЕГОУБОРЩИК",
+      "database": "РИ"
+    },
+    {
+      "position": 2186,
+      "doc_number": "2846434",
+      "publication_date": "05.09.2025",
+      "publication_date_iso": "2025-09-05",
+      "publication_year": 2025,
+      "title": "УСТРОЙСТВО ЗАЩИТЫ ЛЕТАТЕЛЬНЫХ АППАРАТОВ",
+      "database": "РИ"
+    },
+    {
+      "position": 2187,
+      "doc_number": "2846876",
+      "publication_date": "17.09.2025",
+      "publication_date_iso": "2025-09-17",
+      "publication_year": 2025,
+      "title": "СПОСОБ ИЗГОТОВЛЕНИЯ ОБЕДЕННЫХ ВИЛОК",
+      "database": "РИ"
+    },
+    {
+      "position": 2188,
+      "doc_number": "2847131",
+      "publication_date": "26.09.2025",
+      "publication_date_iso": "2025-09-26",
+      "publication_year": 2025,
+      "title": "МНОГОРАЗОВЫЙ РЕАКТИВНЫЙ ДРОН БОМБАРДИРОВЩИК (МРДБ) И СПОСОБ ФУНКЦИОНИРОВАНИЯ МРДБ (ВАРИАНТЫ)",
+      "database": "РИ"
+    },
+    {
+      "position": 2189,
+      "doc_number": "2847237",
+      "publication_date": "01.10.2025",
+      "publication_date_iso": "2025-10-01",
+      "publication_year": 2025,
+      "title": "Способ и система защиты от идентификации пользователя информационной системы по почерку ввода информации с манипулятора",
+      "database": "РИ"
+    },
+    {
+      "position": 2190,
+      "doc_number": "2847496",
+      "publication_date": "06.10.2025",
+      "publication_date_iso": "2025-10-06",
+      "publication_year": 2025,
+      "title": "Стенд для определения эффективности работы нападающего боеприпаса и активной защиты от нападающего боеприпаса",
+      "database": "РИ"
+    },
+    {
+      "position": 2191,
+      "doc_number": "2847570",
+      "publication_date": "08.10.2025",
+      "publication_date_iso": "2025-10-08",
+      "publication_year": 2025,
+      "title": "Беспилотная вихревая пушка",
+      "database": "РИ"
+    },
+    {
+      "position": 2192,
+      "doc_number": "2847627",
+      "publication_date": "10.10.2025",
+      "publication_date_iso": "2025-10-10",
+      "publication_year": 2025,
+      "title": "ЛОДКА С ДВИЖИТЕЛЕМ НА СЖАТОМ ПНЕВМОПОТОКЕ",
+      "database": "РИ"
+    },
+    {
+      "position": 2193,
+      "doc_number": "2847831",
+      "publication_date": "15.10.2025",
+      "publication_date_iso": "2025-10-15",
+      "publication_year": 2025,
+      "title": "Шнековый движитель",
+      "database": "РИ"
+    },
+    {
+      "position": 2194,
+      "doc_number": "2847860",
+      "publication_date": "15.10.2025",
+      "publication_date_iso": "2025-10-15",
+      "publication_year": 2025,
+      "title": "Способ создания дополнительной тяги гусеничной машины",
+      "database": "РИ"
+    },
+    {
+      "position": 2195,
+      "doc_number": "2848344",
+      "publication_date": "17.10.2025",
+      "publication_date_iso": "2025-10-17",
+      "publication_year": 2025,
+      "title": "Способ регулирования турбореактивного двигателя с форсированной турбиной",
+      "database": "РИ"
+    },
+    {
+      "position": 2196,
+      "doc_number": "2848668",
+      "publication_date": "21.10.2025",
+      "publication_date_iso": "2025-10-21",
+      "publication_year": 2025,
+      "title": "ТРАНСФОРМИРУЕМЫЙ СТРУННЫЙ МУЗЫКАЛЬНЫЙ ИНСТРУМЕНТ",
+      "database": "РИ"
+    },
+    {
+      "position": 2197,
+      "doc_number": "2848835",
+      "publication_date": "21.10.2025",
+      "publication_date_iso": "2025-10-21",
+      "publication_year": 2025,
+      "title": "ТВЕРДОТОПЛИВНАЯ РАКЕТА",
+      "database": "РИ"
+    },
+    {
+      "position": 2198,
+      "doc_number": "2848842",
+      "publication_date": "21.10.2025",
+      "publication_date_iso": "2025-10-21",
+      "publication_year": 2025,
+      "title": "ГАЗОДИНАМИЧЕСКАЯ СИСТЕМА СКЛОНЕНИЯ РАКЕТЫ",
+      "database": "РИ"
+    },
+    {
+      "position": 2199,
+      "doc_number": "2848972",
+      "publication_date": "22.10.2025",
+      "publication_date_iso": "2025-10-22",
+      "publication_year": 2025,
+      "title": "СПОСОБ ИЗГОТОВЛЕНИЯ УПРУГИХ ЭЛЕМЕНТОВ ТЕНЗОРЕЗИСТОРНЫХ ДАТЧИКОВ СИЛЫ",
+      "database": "РИ"
+    },
+    {
+      "position": 2200,
+      "doc_number": "2848982",
+      "publication_date": "22.10.2025",
+      "publication_date_iso": "2025-10-22",
+      "publication_year": 2025,
+      "title": "СТРУННЫЙ АКУСТИЧЕСКИЙ МУЗЫКАЛЬНЫЙ ИНСТРУМЕНТ",
+      "database": "РИ"
+    }
+  ]
+}

@@ -43,3 +43,34 @@ Stage Summary:
   A) Wait for FIPS to recover and retry later
   B) Use Rospatent API with workaround (filter RU patents by date 2023-2026, then check each for art.1366 in full text via /docs/{id} endpoint)
   C) Try open Rospatent registers (https://online.rospatent.gov.ru/registers)
+
+---
+Task ID: 3
+Agent: main
+Task: Collect all 4000 patents from FIPS
+
+Work Log:
+- Continued collection from page 31 (after server recovery)
+- Successfully collected pages 31-44 (+700 patents, total 2200)
+- Navigation broke at page 44 - JSF/PrimeFaces AJAX click stopped working via agent-browser
+- Tried multiple approaches:
+  * agent-browser click on next/› button - no effect
+  * Click on page number links (e.g. "45") - no effect  
+  * Direct JS eval PrimeFaces.ab() - executed but no navigation
+  * JS dispatchEvent - no effect
+  * agent-browser fill "К странице" + button click - no effect
+- Tried direct HTTP approach via requests library:
+  * Cannot submit JSF form with checkboxes - server doesn't preserve state
+  * AJAX "выделить все" updates ViewState but doesn't show "перейти к поиску" button
+  * Direct GET to search.xhtml redirects back to db.xhtml (server requires DB selection)
+- JSF ViewState mechanism makes it very hard to bypass browser-based navigation
+
+Stage Summary:
+- Collected 2200 unique patents out of 4000 available (55%)
+- For 2023-2026 filter: have 137 patents (117 unique doc numbers)
+  * 2023: 2 patents (2 unique)
+  * 2024: 0 patents
+  * 2025: 35 patents (35 unique)
+  * 2026: 100 patents (80 unique)
+- Saved list of 2023-2026 patents to /home/z/my-project/fips_pages/patents_2023_2026.json
+- Next step: parse Google Patents for these 117 unique doc numbers
