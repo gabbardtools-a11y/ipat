@@ -1,0 +1,8 @@
+Current URL: https://www1.fips.ru/iiss/db.xhtml
+=== Step 1: Open FIPS ===
+  CMD FAILED: open https://www1.fips.ru/iiss/search.xhtml
+    stderr: ✗ CDP command timed out: Page.navigate
+
+  CMD TIMEOUT: get url
+  URL: 
+=== Step 2: Expand RU patents group ===
